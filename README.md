@@ -1,16 +1,43 @@
-# responsi1_muthiakhanza_c
+# tokokita
 
-A new Flutter project.
+Nama : Muthia Khanza
+NIM : H1D022008
+Shift Baru : C
+Shift Lama : A
 
-## Getting Started
+# 1. Register
 
-This project is a starting point for a Flutter application.
+![Lampiran Registrasi](registrasi1.png)
+![Lampiran Registrasi Berhasil](registrasi2.png)
 
-A few resources to get you started if this is your first Flutter project:
+# 2. Login
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Lampiran Login](login.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# 3. List Genre
+
+![Lampiran Genre](listgenre.png)
+
+# 4. Tambah Genre
+
+![Lampiran Tambah Genre](tambahgenre.png)
+![Lampiran Tambah Genre](aftertambah.png)
+
+# 5. Detail Genre
+
+![Lampiran Detail Genre](detailgenre.png)
+
+# 6. Ubah Genre
+
+![Lampiran Update Genre](updategenre.png)
+![Lampiran Setelah Update Genre](afterupdate.png)
+
+# 7. Delete Genre
+
+![Lampiran Hapus Genre](deletegenre.png)
+![Lampiran Hapus Genre](konfirgenre.png)
+![Lampiran Setelah Hapus Genre](afterdelete.png)
+
+# 8. Logout
+
+![Lampiran Logout](logout.png)
